@@ -1,2 +1,2 @@
 # hexo-blog
-### https://www.aozakiaoko.cn/
+### https://www.aozakiaoko.cn
