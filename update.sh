@@ -4,4 +4,4 @@ then info=":frog:update content"
 fi
 git add -A
 git commit -m "$info"
-git push origin hexo
+git push origin main
